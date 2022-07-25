@@ -1,1 +1,3 @@
 # Patrones GOF
+
+#Adaptador
