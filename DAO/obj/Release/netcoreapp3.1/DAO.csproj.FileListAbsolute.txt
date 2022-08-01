@@ -1,0 +1,14 @@
+E:\PatronesGOF\DAO\bin\Release\netcoreapp3.1\DAO.exe
+E:\PatronesGOF\DAO\bin\Release\netcoreapp3.1\DAO.deps.json
+E:\PatronesGOF\DAO\bin\Release\netcoreapp3.1\DAO.runtimeconfig.json
+E:\PatronesGOF\DAO\bin\Release\netcoreapp3.1\DAO.runtimeconfig.dev.json
+E:\PatronesGOF\DAO\bin\Release\netcoreapp3.1\DAO.dll
+E:\PatronesGOF\DAO\bin\Release\netcoreapp3.1\DAO.pdb
+E:\PatronesGOF\DAO\obj\Release\netcoreapp3.1\DAO.csproj.AssemblyReference.cache
+E:\PatronesGOF\DAO\obj\Release\netcoreapp3.1\DAO.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\DAO\obj\Release\netcoreapp3.1\DAO.AssemblyInfoInputs.cache
+E:\PatronesGOF\DAO\obj\Release\netcoreapp3.1\DAO.AssemblyInfo.cs
+E:\PatronesGOF\DAO\obj\Release\netcoreapp3.1\DAO.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\DAO\obj\Release\netcoreapp3.1\DAO.dll
+E:\PatronesGOF\DAO\obj\Release\netcoreapp3.1\DAO.pdb
+E:\PatronesGOF\DAO\obj\Release\netcoreapp3.1\DAO.genruntimeconfig.cache

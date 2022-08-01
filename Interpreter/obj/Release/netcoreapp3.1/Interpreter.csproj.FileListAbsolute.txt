@@ -1,0 +1,14 @@
+E:\PatronesGOF\Interpreter\bin\Release\netcoreapp3.1\Interpreter.exe
+E:\PatronesGOF\Interpreter\bin\Release\netcoreapp3.1\Interpreter.deps.json
+E:\PatronesGOF\Interpreter\bin\Release\netcoreapp3.1\Interpreter.runtimeconfig.json
+E:\PatronesGOF\Interpreter\bin\Release\netcoreapp3.1\Interpreter.runtimeconfig.dev.json
+E:\PatronesGOF\Interpreter\bin\Release\netcoreapp3.1\Interpreter.dll
+E:\PatronesGOF\Interpreter\bin\Release\netcoreapp3.1\Interpreter.pdb
+E:\PatronesGOF\Interpreter\obj\Release\netcoreapp3.1\Interpreter.csproj.AssemblyReference.cache
+E:\PatronesGOF\Interpreter\obj\Release\netcoreapp3.1\Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\Interpreter\obj\Release\netcoreapp3.1\Interpreter.AssemblyInfoInputs.cache
+E:\PatronesGOF\Interpreter\obj\Release\netcoreapp3.1\Interpreter.AssemblyInfo.cs
+E:\PatronesGOF\Interpreter\obj\Release\netcoreapp3.1\Interpreter.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\Interpreter\obj\Release\netcoreapp3.1\Interpreter.dll
+E:\PatronesGOF\Interpreter\obj\Release\netcoreapp3.1\Interpreter.pdb
+E:\PatronesGOF\Interpreter\obj\Release\netcoreapp3.1\Interpreter.genruntimeconfig.cache

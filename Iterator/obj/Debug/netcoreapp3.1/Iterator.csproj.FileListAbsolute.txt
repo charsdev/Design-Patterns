@@ -1,0 +1,14 @@
+E:\PatronesGOF\Iterator\bin\Debug\netcoreapp3.1\Iterator.exe
+E:\PatronesGOF\Iterator\bin\Debug\netcoreapp3.1\Iterator.deps.json
+E:\PatronesGOF\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.json
+E:\PatronesGOF\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.dev.json
+E:\PatronesGOF\Iterator\bin\Debug\netcoreapp3.1\Iterator.dll
+E:\PatronesGOF\Iterator\bin\Debug\netcoreapp3.1\Iterator.pdb
+E:\PatronesGOF\Iterator\obj\Debug\netcoreapp3.1\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfoInputs.cache
+E:\PatronesGOF\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfo.cs
+E:\PatronesGOF\Iterator\obj\Debug\netcoreapp3.1\Iterator.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\Iterator\obj\Debug\netcoreapp3.1\Iterator.dll
+E:\PatronesGOF\Iterator\obj\Debug\netcoreapp3.1\Iterator.pdb
+E:\PatronesGOF\Iterator\obj\Debug\netcoreapp3.1\Iterator.genruntimeconfig.cache
+E:\PatronesGOF\Iterator\obj\Debug\netcoreapp3.1\Iterator.csproj.AssemblyReference.cache

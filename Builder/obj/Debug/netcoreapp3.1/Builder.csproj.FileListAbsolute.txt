@@ -1,0 +1,13 @@
+E:\PatronesGOF\Builder\obj\Debug\netcoreapp3.1\Builder.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+E:\PatronesGOF\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+E:\PatronesGOF\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+E:\PatronesGOF\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+E:\PatronesGOF\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+E:\PatronesGOF\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+E:\PatronesGOF\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+E:\PatronesGOF\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+E:\PatronesGOF\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+E:\PatronesGOF\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+E:\PatronesGOF\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache

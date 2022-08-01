@@ -1,0 +1,14 @@
+E:\PatronesGOF\ChainOfResponsability\obj\Debug\netcoreapp3.1\ChainOfResponsability.csproj.AssemblyReference.cache
+E:\PatronesGOF\ChainOfResponsability\obj\Debug\netcoreapp3.1\ChainOfResponsability.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\ChainOfResponsability\obj\Debug\netcoreapp3.1\ChainOfResponsability.AssemblyInfoInputs.cache
+E:\PatronesGOF\ChainOfResponsability\obj\Debug\netcoreapp3.1\ChainOfResponsability.AssemblyInfo.cs
+E:\PatronesGOF\ChainOfResponsability\obj\Debug\netcoreapp3.1\ChainOfResponsability.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\ChainOfResponsability\bin\Debug\netcoreapp3.1\ChainOfResponsability.exe
+E:\PatronesGOF\ChainOfResponsability\bin\Debug\netcoreapp3.1\ChainOfResponsability.deps.json
+E:\PatronesGOF\ChainOfResponsability\bin\Debug\netcoreapp3.1\ChainOfResponsability.runtimeconfig.json
+E:\PatronesGOF\ChainOfResponsability\bin\Debug\netcoreapp3.1\ChainOfResponsability.runtimeconfig.dev.json
+E:\PatronesGOF\ChainOfResponsability\bin\Debug\netcoreapp3.1\ChainOfResponsability.dll
+E:\PatronesGOF\ChainOfResponsability\bin\Debug\netcoreapp3.1\ChainOfResponsability.pdb
+E:\PatronesGOF\ChainOfResponsability\obj\Debug\netcoreapp3.1\ChainOfResponsability.dll
+E:\PatronesGOF\ChainOfResponsability\obj\Debug\netcoreapp3.1\ChainOfResponsability.pdb
+E:\PatronesGOF\ChainOfResponsability\obj\Debug\netcoreapp3.1\ChainOfResponsability.genruntimeconfig.cache

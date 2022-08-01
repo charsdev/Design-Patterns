@@ -1,0 +1,14 @@
+E:\PatronesGOF\Visitor\bin\Debug\netcoreapp3.1\Visitor.exe
+E:\PatronesGOF\Visitor\bin\Debug\netcoreapp3.1\Visitor.deps.json
+E:\PatronesGOF\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.json
+E:\PatronesGOF\Visitor\bin\Debug\netcoreapp3.1\Visitor.runtimeconfig.dev.json
+E:\PatronesGOF\Visitor\bin\Debug\netcoreapp3.1\Visitor.dll
+E:\PatronesGOF\Visitor\bin\Debug\netcoreapp3.1\Visitor.pdb
+E:\PatronesGOF\Visitor\obj\Debug\netcoreapp3.1\Visitor.csproj.AssemblyReference.cache
+E:\PatronesGOF\Visitor\obj\Debug\netcoreapp3.1\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfoInputs.cache
+E:\PatronesGOF\Visitor\obj\Debug\netcoreapp3.1\Visitor.AssemblyInfo.cs
+E:\PatronesGOF\Visitor\obj\Debug\netcoreapp3.1\Visitor.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\Visitor\obj\Debug\netcoreapp3.1\Visitor.dll
+E:\PatronesGOF\Visitor\obj\Debug\netcoreapp3.1\Visitor.pdb
+E:\PatronesGOF\Visitor\obj\Debug\netcoreapp3.1\Visitor.genruntimeconfig.cache

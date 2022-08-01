@@ -1,0 +1,13 @@
+E:\PatronesGOF\Mediator\bin\Debug\netcoreapp3.1\Mediator.exe
+E:\PatronesGOF\Mediator\bin\Debug\netcoreapp3.1\Mediator.deps.json
+E:\PatronesGOF\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.json
+E:\PatronesGOF\Mediator\bin\Debug\netcoreapp3.1\Mediator.runtimeconfig.dev.json
+E:\PatronesGOF\Mediator\bin\Debug\netcoreapp3.1\Mediator.dll
+E:\PatronesGOF\Mediator\bin\Debug\netcoreapp3.1\Mediator.pdb
+E:\PatronesGOF\Mediator\obj\Debug\netcoreapp3.1\Mediator.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfoInputs.cache
+E:\PatronesGOF\Mediator\obj\Debug\netcoreapp3.1\Mediator.AssemblyInfo.cs
+E:\PatronesGOF\Mediator\obj\Debug\netcoreapp3.1\Mediator.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\Mediator\obj\Debug\netcoreapp3.1\Mediator.dll
+E:\PatronesGOF\Mediator\obj\Debug\netcoreapp3.1\Mediator.pdb
+E:\PatronesGOF\Mediator\obj\Debug\netcoreapp3.1\Mediator.genruntimeconfig.cache

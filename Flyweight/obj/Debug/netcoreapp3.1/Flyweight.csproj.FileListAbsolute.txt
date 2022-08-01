@@ -1,0 +1,16 @@
+E:\PatronesGOF\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.exe
+E:\PatronesGOF\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.deps.json
+E:\PatronesGOF\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.json
+E:\PatronesGOF\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.runtimeconfig.dev.json
+E:\PatronesGOF\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.dll
+E:\PatronesGOF\Flyweight\bin\Debug\netcoreapp3.1\Flyweight.pdb
+E:\PatronesGOF\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfoInputs.cache
+E:\PatronesGOF\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.AssemblyInfo.cs
+E:\PatronesGOF\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.dll
+E:\PatronesGOF\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.pdb
+E:\PatronesGOF\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.genruntimeconfig.cache
+E:\PatronesGOF\Flyweight\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\PatronesGOF\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.AssemblyReference.cache
+E:\PatronesGOF\Flyweight\obj\Debug\netcoreapp3.1\Flyweight.csproj.CopyComplete

@@ -1,0 +1,14 @@
+E:\PatronesGOF\Decorator\bin\Debug\netcoreapp3.1\Decorator.exe
+E:\PatronesGOF\Decorator\bin\Debug\netcoreapp3.1\Decorator.deps.json
+E:\PatronesGOF\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.json
+E:\PatronesGOF\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.dev.json
+E:\PatronesGOF\Decorator\bin\Debug\netcoreapp3.1\Decorator.dll
+E:\PatronesGOF\Decorator\bin\Debug\netcoreapp3.1\Decorator.pdb
+E:\PatronesGOF\Decorator\obj\Debug\netcoreapp3.1\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfoInputs.cache
+E:\PatronesGOF\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfo.cs
+E:\PatronesGOF\Decorator\obj\Debug\netcoreapp3.1\Decorator.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\Decorator\obj\Debug\netcoreapp3.1\Decorator.dll
+E:\PatronesGOF\Decorator\obj\Debug\netcoreapp3.1\Decorator.pdb
+E:\PatronesGOF\Decorator\obj\Debug\netcoreapp3.1\Decorator.genruntimeconfig.cache
+E:\PatronesGOF\Decorator\obj\Debug\netcoreapp3.1\Decorator.csproj.AssemblyReference.cache

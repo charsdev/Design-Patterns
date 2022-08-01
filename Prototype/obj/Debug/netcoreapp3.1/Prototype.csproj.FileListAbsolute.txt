@@ -1,0 +1,14 @@
+E:\PatronesGOF\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+E:\PatronesGOF\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+E:\PatronesGOF\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+E:\PatronesGOF\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+E:\PatronesGOF\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+E:\PatronesGOF\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+E:\PatronesGOF\Prototype\obj\Debug\netcoreapp3.1\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+E:\PatronesGOF\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+E:\PatronesGOF\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+E:\PatronesGOF\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+E:\PatronesGOF\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache
+E:\PatronesGOF\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.AssemblyReference.cache

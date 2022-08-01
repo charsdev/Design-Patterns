@@ -1,0 +1,14 @@
+E:\PatronesGOF\Memento\bin\Debug\netcoreapp3.1\Memento.exe
+E:\PatronesGOF\Memento\bin\Debug\netcoreapp3.1\Memento.deps.json
+E:\PatronesGOF\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.json
+E:\PatronesGOF\Memento\bin\Debug\netcoreapp3.1\Memento.runtimeconfig.dev.json
+E:\PatronesGOF\Memento\bin\Debug\netcoreapp3.1\Memento.dll
+E:\PatronesGOF\Memento\bin\Debug\netcoreapp3.1\Memento.pdb
+E:\PatronesGOF\Memento\obj\Debug\netcoreapp3.1\Memento.csproj.AssemblyReference.cache
+E:\PatronesGOF\Memento\obj\Debug\netcoreapp3.1\Memento.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfoInputs.cache
+E:\PatronesGOF\Memento\obj\Debug\netcoreapp3.1\Memento.AssemblyInfo.cs
+E:\PatronesGOF\Memento\obj\Debug\netcoreapp3.1\Memento.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\Memento\obj\Debug\netcoreapp3.1\Memento.dll
+E:\PatronesGOF\Memento\obj\Debug\netcoreapp3.1\Memento.pdb
+E:\PatronesGOF\Memento\obj\Debug\netcoreapp3.1\Memento.genruntimeconfig.cache

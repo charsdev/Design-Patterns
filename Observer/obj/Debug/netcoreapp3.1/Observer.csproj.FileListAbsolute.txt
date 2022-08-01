@@ -1,0 +1,14 @@
+E:\PatronesGOF\Observer\bin\Debug\netcoreapp3.1\Observer.exe
+E:\PatronesGOF\Observer\bin\Debug\netcoreapp3.1\Observer.deps.json
+E:\PatronesGOF\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.json
+E:\PatronesGOF\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.dev.json
+E:\PatronesGOF\Observer\bin\Debug\netcoreapp3.1\Observer.dll
+E:\PatronesGOF\Observer\bin\Debug\netcoreapp3.1\Observer.pdb
+E:\PatronesGOF\Observer\obj\Debug\netcoreapp3.1\Observer.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+E:\PatronesGOF\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
+E:\PatronesGOF\Observer\obj\Debug\netcoreapp3.1\Observer.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\Observer\obj\Debug\netcoreapp3.1\Observer.dll
+E:\PatronesGOF\Observer\obj\Debug\netcoreapp3.1\Observer.pdb
+E:\PatronesGOF\Observer\obj\Debug\netcoreapp3.1\Observer.genruntimeconfig.cache
+E:\PatronesGOF\Observer\obj\Debug\netcoreapp3.1\Observer.csproj.AssemblyReference.cache

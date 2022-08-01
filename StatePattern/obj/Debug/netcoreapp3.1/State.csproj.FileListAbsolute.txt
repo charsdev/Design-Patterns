@@ -1,0 +1,13 @@
+E:\PatronesGOF\StatePattern\bin\Debug\netcoreapp3.1\State.exe
+E:\PatronesGOF\StatePattern\bin\Debug\netcoreapp3.1\State.deps.json
+E:\PatronesGOF\StatePattern\bin\Debug\netcoreapp3.1\State.runtimeconfig.json
+E:\PatronesGOF\StatePattern\bin\Debug\netcoreapp3.1\State.runtimeconfig.dev.json
+E:\PatronesGOF\StatePattern\bin\Debug\netcoreapp3.1\State.dll
+E:\PatronesGOF\StatePattern\bin\Debug\netcoreapp3.1\State.pdb
+E:\PatronesGOF\StatePattern\obj\Debug\netcoreapp3.1\State.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\StatePattern\obj\Debug\netcoreapp3.1\State.AssemblyInfoInputs.cache
+E:\PatronesGOF\StatePattern\obj\Debug\netcoreapp3.1\State.AssemblyInfo.cs
+E:\PatronesGOF\StatePattern\obj\Debug\netcoreapp3.1\State.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\StatePattern\obj\Debug\netcoreapp3.1\State.dll
+E:\PatronesGOF\StatePattern\obj\Debug\netcoreapp3.1\State.pdb
+E:\PatronesGOF\StatePattern\obj\Debug\netcoreapp3.1\State.genruntimeconfig.cache

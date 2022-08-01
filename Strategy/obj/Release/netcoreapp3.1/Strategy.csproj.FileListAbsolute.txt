@@ -1,0 +1,13 @@
+E:\PatronesGOF\Strategy+\bin\Release\netcoreapp3.1\Strategy.exe
+E:\PatronesGOF\Strategy+\bin\Release\netcoreapp3.1\Strategy.deps.json
+E:\PatronesGOF\Strategy+\bin\Release\netcoreapp3.1\Strategy.runtimeconfig.json
+E:\PatronesGOF\Strategy+\bin\Release\netcoreapp3.1\Strategy.runtimeconfig.dev.json
+E:\PatronesGOF\Strategy+\bin\Release\netcoreapp3.1\Strategy.dll
+E:\PatronesGOF\Strategy+\bin\Release\netcoreapp3.1\Strategy.pdb
+E:\PatronesGOF\Strategy+\obj\Release\netcoreapp3.1\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\Strategy+\obj\Release\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+E:\PatronesGOF\Strategy+\obj\Release\netcoreapp3.1\Strategy.AssemblyInfo.cs
+E:\PatronesGOF\Strategy+\obj\Release\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\Strategy+\obj\Release\netcoreapp3.1\Strategy.dll
+E:\PatronesGOF\Strategy+\obj\Release\netcoreapp3.1\Strategy.pdb
+E:\PatronesGOF\Strategy+\obj\Release\netcoreapp3.1\Strategy.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\PatronesGOF\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+E:\PatronesGOF\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+E:\PatronesGOF\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+E:\PatronesGOF\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+E:\PatronesGOF\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+E:\PatronesGOF\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+E:\PatronesGOF\Composite\obj\Debug\netcoreapp3.1\Composite.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+E:\PatronesGOF\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+E:\PatronesGOF\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+E:\PatronesGOF\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+E:\PatronesGOF\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache

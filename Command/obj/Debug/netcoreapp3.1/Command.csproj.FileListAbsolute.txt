@@ -1,0 +1,14 @@
+E:\PatronesGOF\Command\bin\Debug\netcoreapp3.1\Command.exe
+E:\PatronesGOF\Command\bin\Debug\netcoreapp3.1\Command.deps.json
+E:\PatronesGOF\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.json
+E:\PatronesGOF\Command\bin\Debug\netcoreapp3.1\Command.runtimeconfig.dev.json
+E:\PatronesGOF\Command\bin\Debug\netcoreapp3.1\Command.dll
+E:\PatronesGOF\Command\bin\Debug\netcoreapp3.1\Command.pdb
+E:\PatronesGOF\Command\obj\Debug\netcoreapp3.1\Command.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfoInputs.cache
+E:\PatronesGOF\Command\obj\Debug\netcoreapp3.1\Command.AssemblyInfo.cs
+E:\PatronesGOF\Command\obj\Debug\netcoreapp3.1\Command.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\Command\obj\Debug\netcoreapp3.1\Command.dll
+E:\PatronesGOF\Command\obj\Debug\netcoreapp3.1\Command.pdb
+E:\PatronesGOF\Command\obj\Debug\netcoreapp3.1\Command.genruntimeconfig.cache
+E:\PatronesGOF\Command\obj\Debug\netcoreapp3.1\Command.csproj.AssemblyReference.cache
