@@ -1,3 +1,1 @@
-# Patrones GOF
-
-#Adaptador
+# Design Patterns
