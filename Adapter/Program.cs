@@ -6,22 +6,21 @@ namespace Adapter
     {
         static void Main(string[] args)
         {
-            Motor[] motores = new Motor[] {
-                new MotorDiesel(),
-                new MotorElectricoAdapter(),
-                new MotorNafta()
+            Engine[] engines = new Engine[] {
+                new DieselEngine(),
+                new ElectricEngineAdapter(),
+                new GasEngine()
             };
 
-            for (int i = 0; i < motores.Length; i++)
+            for (int i = 0; i < engines.Length; i++)
             {
-                Motor motorActual = motores[i];
-                motorActual.Arrancar();
-                motorActual.Acelerar();
-                motorActual.Detener();
-                motorActual.CargarCombustible();
+                Engine current = engines[i];
+                current.Start();
+                current.Accelerate();
+                current.Stop();
+                current.Refuel();
                 Console.WriteLine();
             }
-        
         }
     }
 }

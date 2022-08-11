@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ServiceLocator
 {
@@ -6,7 +7,11 @@ namespace ServiceLocator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Installer installer = new Installer();
+            installer.Install();
+
+            IService testService = ServiceLocator.Instance.GetService<IService>();
+            testService.Print();
         }
     }
 }

@@ -1,0 +1,14 @@
+E:\PatronesGOF\ServiceLocator\bin\Release\netcoreapp3.1\ServiceLocator.exe
+E:\PatronesGOF\ServiceLocator\bin\Release\netcoreapp3.1\ServiceLocator.deps.json
+E:\PatronesGOF\ServiceLocator\bin\Release\netcoreapp3.1\ServiceLocator.runtimeconfig.json
+E:\PatronesGOF\ServiceLocator\bin\Release\netcoreapp3.1\ServiceLocator.runtimeconfig.dev.json
+E:\PatronesGOF\ServiceLocator\bin\Release\netcoreapp3.1\ServiceLocator.dll
+E:\PatronesGOF\ServiceLocator\bin\Release\netcoreapp3.1\ServiceLocator.pdb
+E:\PatronesGOF\ServiceLocator\obj\Release\netcoreapp3.1\ServiceLocator.csproj.AssemblyReference.cache
+E:\PatronesGOF\ServiceLocator\obj\Release\netcoreapp3.1\ServiceLocator.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\ServiceLocator\obj\Release\netcoreapp3.1\ServiceLocator.AssemblyInfoInputs.cache
+E:\PatronesGOF\ServiceLocator\obj\Release\netcoreapp3.1\ServiceLocator.AssemblyInfo.cs
+E:\PatronesGOF\ServiceLocator\obj\Release\netcoreapp3.1\ServiceLocator.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\ServiceLocator\obj\Release\netcoreapp3.1\ServiceLocator.dll
+E:\PatronesGOF\ServiceLocator\obj\Release\netcoreapp3.1\ServiceLocator.pdb
+E:\PatronesGOF\ServiceLocator\obj\Release\netcoreapp3.1\ServiceLocator.genruntimeconfig.cache

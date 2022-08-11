@@ -1,0 +1,13 @@
+E:\PatronesGOF\Optional\bin\Release\netcoreapp3.1\Optional.exe
+E:\PatronesGOF\Optional\bin\Release\netcoreapp3.1\Optional.deps.json
+E:\PatronesGOF\Optional\bin\Release\netcoreapp3.1\Optional.runtimeconfig.json
+E:\PatronesGOF\Optional\bin\Release\netcoreapp3.1\Optional.runtimeconfig.dev.json
+E:\PatronesGOF\Optional\bin\Release\netcoreapp3.1\Optional.dll
+E:\PatronesGOF\Optional\bin\Release\netcoreapp3.1\Optional.pdb
+E:\PatronesGOF\Optional\obj\Release\netcoreapp3.1\Optional.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\Optional\obj\Release\netcoreapp3.1\Optional.AssemblyInfoInputs.cache
+E:\PatronesGOF\Optional\obj\Release\netcoreapp3.1\Optional.AssemblyInfo.cs
+E:\PatronesGOF\Optional\obj\Release\netcoreapp3.1\Optional.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\Optional\obj\Release\netcoreapp3.1\Optional.dll
+E:\PatronesGOF\Optional\obj\Release\netcoreapp3.1\Optional.pdb
+E:\PatronesGOF\Optional\obj\Release\netcoreapp3.1\Optional.genruntimeconfig.cache

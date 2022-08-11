@@ -6,9 +6,9 @@ namespace Singleton
     {
         static void Main(string[] args)
         {
-            Conexion c = Conexion.GetInstance();
-            c.Conectar();
-            c.Desconectar();
+            Connection c = Connection.GetInstance();
+            c.Connect();
+            c.Disconect();
         }
     }
 }

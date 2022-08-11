@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace DAO
+﻿namespace DAO
 {
-
     public class Student
     {
         private string _name;

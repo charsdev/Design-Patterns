@@ -6,11 +6,11 @@ namespace Decorator
     {
         static void Main(string[] args)
         {
-            BebidaComponent cafeConAzucar = new Azucar(new Cafe());
-            Console.WriteLine(cafeConAzucar.Descripcion + " " + cafeConAzucar.Costo);
+            DrinkComponent coffeeWithSugar = new Sugar(new Coffe());
+            Console.WriteLine(coffeeWithSugar.Description + " " + coffeeWithSugar.Cost);
 
-            BebidaComponent teConLeche = new Leche(new Te());
-            Console.WriteLine(teConLeche.Descripcion + " " + teConLeche.Costo);
+            DrinkComponent teaWithMilk = new Milk(new Tea());
+            Console.WriteLine(teaWithMilk.Description + " " + teaWithMilk.Cost);
         }
     }
 }

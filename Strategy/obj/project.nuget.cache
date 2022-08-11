@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tZ9mNC2kTTQpLBxhIEBLDCpYvASP22L0MjQq9b9o4lASnXTW7nP1vAAsKxRiXERfW3HeKGT/28oMuLX+uIU4eQ==",
+  "dgSpecHash": "JU/VjmMPcH9bnCKYhTMl4bjhoKRoeZv0LMJfmgsSVXB/lYHmhpcohPil5rBC8tWJDijhYErghMo7JIFbLjbdUQ==",
   "success": true,
-  "projectFilePath": "E:\\PatronesGOF\\Strategy+\\Strategy.csproj",
+  "projectFilePath": "E:\\PatronesGOF\\Strategy\\Strategy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

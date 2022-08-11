@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Runtime.Serialization.Formatters.Binary;
 
 namespace Memento
 {
@@ -22,7 +19,7 @@ namespace Memento
             Console.WriteLine(history.RestoreCheckPoint(0));
 
             Account account = new Account("Admin", "123", "email@invalid.com");
-            Console.WriteLine(account.Tostring());
+            Console.WriteLine(account.ToString());
             History<Account> history2 = new History<Account>();
             history2.Save(account);
 
@@ -39,6 +36,4 @@ namespace Memento
             Console.WriteLine(history2.RestoreCheckPoint(2));
         }
     }
-
-  
 }

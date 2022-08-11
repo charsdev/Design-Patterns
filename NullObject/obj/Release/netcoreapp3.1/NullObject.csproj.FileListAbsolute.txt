@@ -1,0 +1,14 @@
+E:\PatronesGOF\NullObject\bin\Release\netcoreapp3.1\NullObject.exe
+E:\PatronesGOF\NullObject\bin\Release\netcoreapp3.1\NullObject.deps.json
+E:\PatronesGOF\NullObject\bin\Release\netcoreapp3.1\NullObject.runtimeconfig.json
+E:\PatronesGOF\NullObject\bin\Release\netcoreapp3.1\NullObject.runtimeconfig.dev.json
+E:\PatronesGOF\NullObject\bin\Release\netcoreapp3.1\NullObject.dll
+E:\PatronesGOF\NullObject\bin\Release\netcoreapp3.1\NullObject.pdb
+E:\PatronesGOF\NullObject\obj\Release\netcoreapp3.1\NullObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\PatronesGOF\NullObject\obj\Release\netcoreapp3.1\NullObject.AssemblyInfoInputs.cache
+E:\PatronesGOF\NullObject\obj\Release\netcoreapp3.1\NullObject.AssemblyInfo.cs
+E:\PatronesGOF\NullObject\obj\Release\netcoreapp3.1\NullObject.csproj.CoreCompileInputs.cache
+E:\PatronesGOF\NullObject\obj\Release\netcoreapp3.1\NullObject.dll
+E:\PatronesGOF\NullObject\obj\Release\netcoreapp3.1\NullObject.pdb
+E:\PatronesGOF\NullObject\obj\Release\netcoreapp3.1\NullObject.genruntimeconfig.cache
+E:\PatronesGOF\NullObject\obj\Release\netcoreapp3.1\NullObject.csproj.AssemblyReference.cache
